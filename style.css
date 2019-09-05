@@ -1,11 +1,11 @@
 
 @font-face {
-    font-family: Monumentgrotesk Medium;
-    src: url(assets/monumentgrotesk-medium.otf);
+    font-family: MonumentGrotesk Medium;
+    src: url(assets/MonumentGroteskMedium.otf);
 }
 
 body {
-    font-family: Monumentgrotesk Medium, Helvetica;
+    font-family: MonumentGrotesk Medium, Helvetica;
     font-size: 4rem;
     line-height: 1;
     text-transform: uppercase;
